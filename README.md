@@ -8,7 +8,7 @@ The analysis reveals that customer retention is extremely low: **94% of customer
 
 **Key findings:**
 - **94% of customers are one-time buyers.**
-- **Repeat** buyers represent only **5.9%** of the user base, generating **~1.5X higher** median lifetime value
+- **Repeat buyers** represent only **5.9%** of the user base, generating **~1.5X higher** median lifetime value
 - **50% of repeat purchases occur within 28 days**, indicating a critical early retention window
 - Over **90% of revenue comes from one-time customers**, suggesting heavy dependence on customer acquisition
 
@@ -24,9 +24,11 @@ The analysis reveals that customer retention is extremely low: **94% of customer
 These findings suggest that improving early post-purchase engagement could significantly increase customer lifetime value and reduce reliance on new customer acquisition.
 
 ## Dataset
+
 **Source**
 Brazilian E-Commerce Public Dataset by Olist
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 **Tables used**
 The analysis focuses on the core transactional tables:
 - olist_orders_dataset
