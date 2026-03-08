@@ -103,7 +103,7 @@ The analysis was conducted in Python using a combination of cohort analysis, ret
 **Technical Tools used:**
 - Python: Google Colab
 - SQL: DuckDB 
-- Libarry: Pandas | Matplotlib | Seaborn
+- Library: Pandas | Matplotlib | Seaborn
 
 ## Methodology
 **1. Data Preparation**
