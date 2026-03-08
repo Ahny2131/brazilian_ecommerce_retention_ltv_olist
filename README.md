@@ -109,25 +109,30 @@ Key steps included:
 - Calculating order revenue using payment data
 - Identifying each customer's first purchase date
 - Aggregating purchase counts and revenue per custome
+
 **2.  Cohort Analysis**
   
 Customers were grouped by the month of their first purchase to analyze retention behavior across cohorts.
 Customer acquisition grew significantly from 2016 to late 2017, reflecting rapid marketplace expansion during this period.
+
 **3.  Customer Retention**
 
 Retention measures the percentage of customers who return after their first purchase.
 Retention drops sharply after the first purchase, indicating that the majority of customers do not return to the platform.
 This suggests the marketplace behaves more like a transactional marketplace rather than a loyalty-driven retail platform.
+
 **4.  Customer Lifetime Value Distribution**
 
 Customer revenue distribution is highly skewed.
 Most customers generate relatively small lifetime value, while a small minority of customers generate significantly higher revenue.
 A log transformation is used to better visualize this long-tail distribution.
+
 **5.  Revenue Contribution by Customer Type**
 
 Customers were segmented into two groups to determine the contribution of customer & revenue contribution
 - One-time customers
 - Repeat customers
+
 **6.  Time to Second Purchase**
 
 **Key statistics:**
@@ -137,36 +142,31 @@ Median time to second purchase: 28 days
 This suggests that when customers do return, they tend to do so relatively soon after the first purchase.
 
 ##  Analysis
-**Customer Acquisition Trends**
-
+**1. Customer Acquisition Trends**
 Customer acquisition increased significantly throughout 2017, suggesting rapid marketplace expansion during this period.
 However, strong acquisition growth alone does not guarantee sustainable revenue growth if retention remains low.
 **Key takeaway:** The platform demonstrates strong customer acquisition but weak long-term engagement.
 
-**Customer Retention Behavior**
-
+**2. Customer Retention Behavior**
 Customer retention drops sharply after the first purchase, falling below 1% within the first month.
 This indicates that most customers do not return after completing their initial transaction.
 
 **Key takeaway:** The marketplace currently behaves more like a transactional platform rather than a recurring shopping destination.
 
-**Repeat Purchase Distribution**
-
+**3. Repeat Purchase Distribution**
 Customer purchase frequency is highly skewed, with the majority of customers making only one purchase.
 **Key takeaway:** The platform captures only a small portion of potential lifetime value because very few customers progress to repeat purchasing behavior.
 
-**Customer Lifetime Value Distribution**
-
+**4. Customer Lifetime Value Distribution**
 Customer lifetime value follows a strongly right-skewed distribution, where a small number of customers generate disproportionately high revenue.
 **Key takeaway:**  Increasing the number of repeat customers could significantly shift the revenue distribution.
 
-**Revenue Growth by Purchase Frequency**
-
+**5. Revenue Growth by Purchase Frequency**
 Customers who make multiple purchases generate substantially higher lifetime revenue.
 For example, customers who make two purchases generate approximately 1.5× higher median revenue than one-time buyers.
 **Key takeaway:** Encouraging a second purchase represents one of the most impactful levers for increasing customer lifetime value.
 
-**Revenue Contribution by Customer Segment**
+**6. Revenue Contribution by Customer Segment**
 
 Customer segmentation reveals:
 - 94% of customers are one-time buyers
@@ -175,12 +175,12 @@ One-time buyers generate over 90% of revenue, reflecting the dominance of acquis
 
 **Key takeaway:** The marketplace relies heavily on new customers rather than repeat purchasing behavior.
 
-**Time to Second Purchase**
+**7. Time to Second Purchase**
 The median time to second purchase is 28 days, indicating a short window where customers are most likely to return.
 
 **Key takeaway:**Retention strategies should focus on the first 30 days after the initial purchase.
 
-**Revenue Concentration**
+**8. Revenue Concentration**
 Revenue follows a Pareto-like distribution, where a relatively small share of customers generates a large share of revenue.
 **Key takeaway:** Targeted retention strategies focused on high-value customers could significantly increase revenue efficiency.
 
